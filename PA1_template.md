@@ -217,25 +217,4 @@ p4 + labs(y = "Average amount of steps in a given 5-minute interval")
 ```
 
 ![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10.png) 
-=======
-# Reproducible Research: Peer Assessment 1
 
-
-## Loading and preprocessing the data
-
-
-
-## What is mean total number of steps taken per day?
-
-
-
-## What is the average daily activity pattern?
-
-
-
-## Imputing missing values
-
-
-
-## Are there differences in activity patterns between weekdays and weekends?
->>>>>>> dc20c7c4e92aea6af318a611e2669d5b9c6cbfaf
