@@ -2,7 +2,7 @@ Assignent Number 1
 ========================================================
 
 
-This is a first assignment for the [Reproducible Research](https://class.coursera.org/repdata-004) coursera class. It is based on the dataset: [Activity monitoring data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip). A detailed description of an assignment and dataset can be found [here](https://github.com/kr0niker/RepData_PeerAssessment1/blob/master/README.md)
+Here is a first assignment for the [Reproducible Research](https://class.coursera.org/repdata-004) coursera class. It is based on the dataset: [Activity monitoring data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip). A detailed description of an assignment and dataset can be found [here](https://github.com/kr0niker/RepData_PeerAssessment1/blob/master/README.md)
 
 ### Loading and preprocessing the data
 #### The task:
@@ -229,3 +229,25 @@ p4 + labs(y = "Average amount of steps in a given 5-minute interval")
 ```
 
 ![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10.png) 
+=======
+# Reproducible Research: Peer Assessment 1
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> dc20c7c4e92aea6af318a611e2669d5b9c6cbfaf
