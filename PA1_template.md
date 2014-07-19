@@ -149,18 +149,6 @@ We will deal with NAs with as following algorithm. First we will cut a series of
 
 ```r
 library(zoo)
-```
-
-```
-## 
-## Attaching package: 'zoo'
-## 
-## The following objects are masked from 'package:base':
-## 
-##     as.Date, as.Date.numeric
-```
-
-```r
 dt<-as.zoo(data) ##we converge the initial dataframe into the zoo
 trimmeddt<-na.trim(dt) ##we trim the zoo
 nona<-as.data.frame(na.locf(trimmeddt)) ##replace the NAs with the previous values and convert the object back to the dataframe
